@@ -4,9 +4,9 @@ using System.Windows.Forms;
 
 namespace oyuncak_dukkani
 {
-    public partial class Form1 : Form
+    public partial class giriþ_ : Form
     {
-        public Form1()
+        public giriþ_()
         {
             InitializeComponent();
         }
@@ -34,7 +34,7 @@ namespace oyuncak_dukkani
                 if (musteri != null)
                 {
                     MessageBox.Show("Müþteri giriþi baþarýlý!");
-                    form2 musteriForm = new form2(musteri);
+                    kullanýcý_ekraný musteriForm = new kullanýcý_ekraný(musteri);
                     musteriForm.Show();
                     this.Hide();
                 }

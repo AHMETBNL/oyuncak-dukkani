@@ -1,6 +1,6 @@
 ﻿namespace oyuncak_dukkani
 {
-    partial class form2
+    partial class kullanıcı_ekranı
     {
         /// <summary>
         /// Required designer variable.
@@ -726,7 +726,7 @@
             lblKullaniciAdi.TabIndex = 61;
             lblKullaniciAdi.Text = "kullanıcı adı";
             // 
-            // form2
+            // kullanıcı_ekranı
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -795,8 +795,8 @@
             Controls.Add(pictureBox2);
             Controls.Add(pictureBox1);
             ForeColor = SystemColors.ControlText;
-            Name = "form2";
-            Text = "form2";
+            Name = "kullanıcı_ekranı";
+            Text = "kullanıcı ekranı";
             Load += form2_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();

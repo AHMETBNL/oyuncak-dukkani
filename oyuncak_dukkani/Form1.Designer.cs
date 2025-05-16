@@ -1,6 +1,6 @@
 ﻿namespace oyuncak_dukkani
 {
-    partial class Form1
+    partial class giriş_
     {
         /// <summary>
         ///  Required designer variable.
@@ -135,7 +135,7 @@
             btnKayitOl.UseVisualStyleBackColor = true;
             btnKayitOl.Click += btnKayitOl_Click;
             // 
-            // Form1
+            // giriş_
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -151,8 +151,8 @@
             Controls.Add(txt_sifre);
             Controls.Add(label1);
             Controls.Add(txt_ad);
-            Name = "Form1";
-            Text = "Form1";
+            Name = "giriş_";
+            Text = "giriş ekranı";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();

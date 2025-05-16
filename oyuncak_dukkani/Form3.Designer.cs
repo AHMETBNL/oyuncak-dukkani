@@ -322,7 +322,7 @@
             Controls.Add(panel3);
             Controls.Add(panel1);
             Name = "Form3";
-            Text = "Form3";
+            Text = "yönetici ekranı";
             Load += Form3_Load;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();

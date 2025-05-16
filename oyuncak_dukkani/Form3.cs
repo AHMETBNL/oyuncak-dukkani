@@ -156,7 +156,7 @@ namespace oyuncak_dukkani
         private void btn_geri_dön_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form1 anaForm = new Form1();
+            giriş_ anaForm = new giriş_();
             anaForm.Show();
         }
 

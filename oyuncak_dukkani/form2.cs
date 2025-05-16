@@ -7,11 +7,11 @@ using MySql.Data.MySqlClient;
 
 namespace oyuncak_dukkani
 {
-    public partial class form2 : Form
+    public partial class kullanıcı_ekranı : Form
     {
         private User _girisYapan;
 
-        public form2(User kullanici)
+        public kullanıcı_ekranı(User kullanici)
         {
             InitializeComponent();
             _girisYapan = kullanici;
@@ -19,7 +19,7 @@ namespace oyuncak_dukkani
             // Örneğin:
             lblKullaniciAdi.Text = _girisYapan.KullaniciAdi;
         }
-        public form2()
+        public kullanıcı_ekranı()
         {
             InitializeComponent();
             
@@ -193,7 +193,7 @@ namespace oyuncak_dukkani
         private void btnGeriDon_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form1 anaForm = new Form1();
+            giriş_ anaForm = new giriş_();
             anaForm.Show();
         }
 
