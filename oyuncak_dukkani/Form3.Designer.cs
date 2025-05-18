@@ -307,9 +307,10 @@
             // lblKullaniciAdi
             // 
             lblKullaniciAdi.AutoSize = true;
-            lblKullaniciAdi.Location = new Point(303, 16);
+            lblKullaniciAdi.Font = new Font("Segoe UI", 15F);
+            lblKullaniciAdi.Location = new Point(272, 4);
             lblKullaniciAdi.Name = "lblKullaniciAdi";
-            lblKullaniciAdi.Size = new Size(88, 20);
+            lblKullaniciAdi.Size = new Size(145, 35);
             lblKullaniciAdi.TabIndex = 6;
             lblKullaniciAdi.Text = "kullanıcı adı";
             // 

@@ -85,7 +85,7 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.Image = Properties.Resources.knuckles_peluş1;
+            pictureBox1.Image = Properties.Resources.toyzzshop1;
             pictureBox1.Location = new Point(238, 12);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(220, 88);

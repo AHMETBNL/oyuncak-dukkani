@@ -583,7 +583,7 @@
             // oyuncak2_lbl
             // 
             oyuncak2_lbl.AutoSize = true;
-            oyuncak2_lbl.Location = new Point(301, 75);
+            oyuncak2_lbl.Location = new Point(318, 75);
             oyuncak2_lbl.Name = "oyuncak2_lbl";
             oyuncak2_lbl.Size = new Size(92, 20);
             oyuncak2_lbl.TabIndex = 46;
@@ -592,7 +592,7 @@
             // oyuncak3_lbl
             // 
             oyuncak3_lbl.AutoSize = true;
-            oyuncak3_lbl.Location = new Point(474, 75);
+            oyuncak3_lbl.Location = new Point(494, 75);
             oyuncak3_lbl.Name = "oyuncak3_lbl";
             oyuncak3_lbl.Size = new Size(89, 20);
             oyuncak3_lbl.TabIndex = 47;
@@ -601,7 +601,7 @@
             // oyuncak4_lbl
             // 
             oyuncak4_lbl.AutoSize = true;
-            oyuncak4_lbl.Location = new Point(635, 75);
+            oyuncak4_lbl.Location = new Point(651, 75);
             oyuncak4_lbl.Name = "oyuncak4_lbl";
             oyuncak4_lbl.Size = new Size(93, 20);
             oyuncak4_lbl.TabIndex = 48;
@@ -619,7 +619,7 @@
             // oyuncak6_lbl
             // 
             oyuncak6_lbl.AutoSize = true;
-            oyuncak6_lbl.Location = new Point(996, 75);
+            oyuncak6_lbl.Location = new Point(981, 75);
             oyuncak6_lbl.Name = "oyuncak6_lbl";
             oyuncak6_lbl.Size = new Size(82, 20);
             oyuncak6_lbl.TabIndex = 50;
@@ -628,7 +628,7 @@
             // oyuncak7_lbl
             // 
             oyuncak7_lbl.AutoSize = true;
-            oyuncak7_lbl.Location = new Point(1147, 75);
+            oyuncak7_lbl.Location = new Point(1119, 75);
             oyuncak7_lbl.Name = "oyuncak7_lbl";
             oyuncak7_lbl.Size = new Size(104, 20);
             oyuncak7_lbl.TabIndex = 51;
@@ -637,16 +637,16 @@
             // oyuncak8_lbl
             // 
             oyuncak8_lbl.AutoSize = true;
-            oyuncak8_lbl.Location = new Point(164, 398);
+            oyuncak8_lbl.Location = new Point(139, 398);
             oyuncak8_lbl.Name = "oyuncak8_lbl";
-            oyuncak8_lbl.Size = new Size(97, 20);
+            oyuncak8_lbl.Size = new Size(105, 20);
             oyuncak8_lbl.TabIndex = 52;
-            oyuncak8_lbl.Text = "arba lego kiti";
+            oyuncak8_lbl.Text = "araba lego kiti";
             // 
             // oyuncak9_lbl
             // 
             oyuncak9_lbl.AutoSize = true;
-            oyuncak9_lbl.Location = new Point(332, 398);
+            oyuncak9_lbl.Location = new Point(289, 398);
             oyuncak9_lbl.Name = "oyuncak9_lbl";
             oyuncak9_lbl.Size = new Size(142, 20);
             oyuncak9_lbl.TabIndex = 53;
@@ -655,7 +655,7 @@
             // oyuncak10_lbl
             // 
             oyuncak10_lbl.AutoSize = true;
-            oyuncak10_lbl.Location = new Point(497, 398);
+            oyuncak10_lbl.Location = new Point(462, 398);
             oyuncak10_lbl.Name = "oyuncak10_lbl";
             oyuncak10_lbl.Size = new Size(136, 20);
             oyuncak10_lbl.TabIndex = 54;
@@ -664,7 +664,7 @@
             // oyuncak11_lbl
             // 
             oyuncak11_lbl.AutoSize = true;
-            oyuncak11_lbl.Location = new Point(665, 398);
+            oyuncak11_lbl.Location = new Point(655, 398);
             oyuncak11_lbl.Name = "oyuncak11_lbl";
             oyuncak11_lbl.Size = new Size(73, 20);
             oyuncak11_lbl.TabIndex = 55;
@@ -673,7 +673,7 @@
             // oyuncak12_lbl
             // 
             oyuncak12_lbl.AutoSize = true;
-            oyuncak12_lbl.Location = new Point(827, 398);
+            oyuncak12_lbl.Location = new Point(806, 398);
             oyuncak12_lbl.Name = "oyuncak12_lbl";
             oyuncak12_lbl.Size = new Size(95, 20);
             oyuncak12_lbl.TabIndex = 56;
@@ -682,7 +682,7 @@
             // oyuncak13_lbl
             // 
             oyuncak13_lbl.AutoSize = true;
-            oyuncak13_lbl.Location = new Point(996, 398);
+            oyuncak13_lbl.Location = new Point(967, 398);
             oyuncak13_lbl.Name = "oyuncak13_lbl";
             oyuncak13_lbl.Size = new Size(111, 20);
             oyuncak13_lbl.TabIndex = 57;
@@ -691,7 +691,7 @@
             // oyuncak14_lbl
             // 
             oyuncak14_lbl.AutoSize = true;
-            oyuncak14_lbl.Location = new Point(1147, 398);
+            oyuncak14_lbl.Location = new Point(1134, 398);
             oyuncak14_lbl.Name = "oyuncak14_lbl";
             oyuncak14_lbl.Size = new Size(83, 20);
             oyuncak14_lbl.TabIndex = 58;

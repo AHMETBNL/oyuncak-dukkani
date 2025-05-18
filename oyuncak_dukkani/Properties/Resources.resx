@@ -130,14 +130,17 @@
   <data name="sonic_peluş" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\sonic_peluş.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="lego_kit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\lego_kit.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="mickey_mouse_peluş" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mickey_mouse_peluş.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="akıl_oyunu_lego1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\akıl_oyunu_lego1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="mickey_mouse_peluş" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mickey_mouse_peluş.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="toyzzshop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\toyzzshop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lego_kit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lego_kit.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="lego" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\lego.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -163,10 +166,13 @@
   <data name="knuckles_peluş" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\knuckles_peluş.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="knuckles_peluş1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\knuckles_peluş1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="akıl_oyunu_lego" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\akıl_oyunu_lego.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="knuckles_peluş1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\knuckles_peluş1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="toyzzshop1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\toyzzshop1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
